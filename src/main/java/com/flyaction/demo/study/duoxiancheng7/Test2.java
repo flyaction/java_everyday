@@ -1,4 +1,4 @@
-package com.flyaction.demo.duoxiancheng7;
+package com.flyaction.demo.study.duoxiancheng7;
 
 import java.util.Map;
 import java.util.UUID;
