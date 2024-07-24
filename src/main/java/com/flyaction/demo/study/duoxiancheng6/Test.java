@@ -21,7 +21,7 @@ public class Test {
 
     }
 }
-class Data{
+class Data  {
     private Integer num = 0;
     private Lock lock = new ReentrantLock();
     private Condition condition = lock.newCondition();
