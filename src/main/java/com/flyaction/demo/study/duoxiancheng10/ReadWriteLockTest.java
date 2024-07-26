@@ -1,4 +1,4 @@
-package com.flyaction.demo.duoxiancheng10;
+package com.flyaction.demo.study.duoxiancheng10;
 
 import java.util.HashMap;
 import java.util.Map;
