@@ -16,7 +16,7 @@ public class Test {
         //ExecutorService executorService = Executors.newSingleThreadExecutor();
         //指定线程数量
         //ExecutorService executorService = Executors.newFixedThreadPool(5);
-        //缓冲线程池
+        //缓冲线程池，线程池的线程实例数量随机，由电脑的配置决定。
         ExecutorService executorService = Executors.newCachedThreadPool();
         for(int i = 0;i<10;i++){
             final int temp = i;
